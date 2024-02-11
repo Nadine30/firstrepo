@@ -7,3 +7,6 @@ class Personne:
         print("Salut je m'appelle",self.nom,"\t","j'ai",self.age,"ans") 
 P1=Personne("Tch","Nado",18)
 P1.show()
+
+# Hello MANIDOM i hope that you're doing well !
+# Happy valentine's day to you and your ... (^_^)
