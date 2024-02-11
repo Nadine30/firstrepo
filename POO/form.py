@@ -18,3 +18,5 @@ class Rectangle(Form):
 
 rect=Rectangle(4,2)
 rect.Aire()
+
+# Hello by ken (^_^)
